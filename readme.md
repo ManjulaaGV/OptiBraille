@@ -120,8 +120,6 @@ For academic collaboration or demonstration inquiries, please contact the author
 ---
 
 ##  Author
-Manjulaa G V
-SRM Institute of Science and Technology
 
 **Manjulaa GV**  
 Artificial Intelligence & Machine Learning Enthusiast  
